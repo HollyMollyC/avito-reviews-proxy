@@ -1,4 +1,4 @@
-git clone https://github.com/<ВАШ_ЛОГИН>/avito-reviews-proxy.git
+git clone https://github.com/<HollyMollyC>/avito-reviews-proxy.git
 cd avito-reviews-proxy
 # Скопируйте файлы из архива в эту папку.
 
